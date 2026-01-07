@@ -1,0 +1,16 @@
+{
+  "name": "zzz",
+  "description": "zzz本地插件市场",
+  "owner": {
+    "name": "zzz",
+    "email": ""
+  },
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "paper-summarizer",
+      "source": "./plugins/paper-summarizer",
+      "description": "批量阅读文献并生成结构化总结"
+    }
+  ]
+}

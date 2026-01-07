@@ -1,0 +1,11 @@
+{
+  "name": "paper-summarizer",
+  "version": "0.1.0",
+  "description": "批量阅读文献并生成结构化总结（表格汇总或详细分析）",
+  "author": {
+    "name": "zzz",
+    "email": ""
+  },
+  "keywords": ["papers", "literature", "summary", "academic", "research"],
+  "license": "MIT"
+}
