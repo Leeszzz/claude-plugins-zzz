@@ -1,4 +1,5 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "zzz-plugins-marketplace",
   "description": "zzz本地插件市场",
   "owner": {
@@ -10,7 +11,13 @@
     {
       "name": "paper-summarizer",
       "source": "./plugins/paper-summarizer",
-      "description": "批量阅读文献并生成结构化总结"
+      "description": "批量阅读文献并生成结构化总结（表格汇总或详细分析）",
+      "version": "0.1.0",
+      "author": {
+        "name": "zzz-plugins-marketplace",
+        "email": ""
+      },
+      "category": "productivity"
     }
   ]
 }
