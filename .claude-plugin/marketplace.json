@@ -11,6 +11,11 @@
       "name": "paper-summarizer",
       "source": "./plugins/paper-summarizer",
       "description": "批量阅读文献并生成结构化总结"
+    },
+    {
+      "name": "research-paper",
+      "source": "./plugins/research-paper",
+      "description": "学术论文检索工具。使用 Semantic Scholar MCP 检索论文，并将结果记录到指定 markdown 文件。"
     }
   ]
 }

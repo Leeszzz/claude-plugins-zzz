@@ -1,0 +1,11 @@
+{
+  "name": "research-paper",
+  "version": "0.1.0",
+  "description": "学术论文检索工具。使用 Semantic Scholar MCP 检索论文，并将结果记录到指定 markdown 文件。",
+  "author": {
+    "name": "zzz-plugins-marketplace",
+    "email": ""
+  },
+  "keywords": ["papers", "search", "academic", "semantic-scholar", "research"],
+  "license": "MIT"
+}
