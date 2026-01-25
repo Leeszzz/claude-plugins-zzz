@@ -1,0 +1,6 @@
+[submodule "external/anthropic-skills"]
+	path = external/anthropic-skills
+	url = https://github.com/anthropics/skills.git
+[submodule "external/claude-scientific-skills"]
+	path = external/claude-scientific-skills
+	url = https://github.com/K-Dense-AI/claude-scientific-skills.git
