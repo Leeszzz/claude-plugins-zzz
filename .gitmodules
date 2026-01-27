@@ -4,3 +4,6 @@
 [submodule "external/claude-scientific-skills"]
 	path = external/claude-scientific-skills
 	url = https://github.com/K-Dense-AI/claude-scientific-skills.git
+[submodule "external/knowledge-absorber"]
+	path = external/knowledge-absorber
+	url = https://github.com/Leeszzz/StudyAnalysis-Skills/
