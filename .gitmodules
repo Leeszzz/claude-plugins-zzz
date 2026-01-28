@@ -7,3 +7,6 @@
 [submodule "external/knowledge-absorber"]
 	path = external/knowledge-absorber
 	url = https://github.com/Leeszzz/StudyAnalysis-Skills/
+[submodule "external/awesome-chatgpt-prompts"]
+	path = external/awesome-chatgpt-prompts
+	url = https://github.com/f/awesome-chatgpt-prompts
