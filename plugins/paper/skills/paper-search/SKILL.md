@@ -46,25 +46,18 @@ description: Use when needing to search academic papers in engineering fields (e
 
 ## 快速参考
 
-### 关键词转换表
+### 关键词转换
 
-| 中文 | 英文 |
-|------|------|
-| 微电网 | microgrid |
-| 储能 | energy storage |
-| 电力系统 | power system |
-| 轨道交通 | railway / rail transit |
-| 牵引供电 | traction power supply |
-| 热管理 | thermal management |
-| 传热 | heat transfer |
-| 氢能 | hydrogen energy |
-| 燃料电池 | fuel cell |
-| 电解槽 | electrolyzer |
-| 光伏 | photovoltaic / solar |
-| 风电 | wind power |
-| 优化 | optimization |
-| 控制 | control |
-| 仿真 | simulation |
+中文关键词需转换为英文进行检索。
+
+> 📚 **完整映射表**：请参考 [`references/keyword-mapping.md`](../../references/keyword-mapping.md)
+
+**常用示例**：
+- 微电网 → microgrid
+- 储能 → energy storage
+- 轨道交通 → railway / rail transit
+- 氢能 → hydrogen energy
+- 优化 → optimization
 
 ### MCP 工具
 

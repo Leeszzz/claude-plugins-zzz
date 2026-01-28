@@ -64,25 +64,9 @@ yearStart = 2020, yearEnd = 2024
 
 ### 步骤 3：构建检索查询
 
-将中文关键词转换为英文检索词：
+将中文关键词转换为英文检索词。
 
-| 中文 | 英文 |
-|------|------|
-| 微电网 | microgrid |
-| 储能 | energy storage |
-| 电力系统 | power system |
-| 轨道交通 | railway / rail transit |
-| 牵引供电 | traction power supply |
-| 热管理 | thermal management |
-| 传热 | heat transfer |
-| 氢能 | hydrogen energy |
-| 燃料电池 | fuel cell |
-| 电解槽 | electrolyzer |
-| 光伏 | photovoltaic / solar |
-| 风电 | wind power |
-| 优化 | optimization |
-| 控制 | control |
-| 仿真 | simulation |
+> 📚 **参考**：完整的关键词映射表请查看 [`references/keyword-mapping.md`](../references/keyword-mapping.md)
 
 ### 步骤 4：执行检索
 
