@@ -111,17 +111,6 @@
       ]
     },
     {
-      "name": "knowledge-absorber",
-      "source": "./external/knowledge-absorber/knowledge-absorber",
-      "description": "深度解析链接、文档或代码，生成“全能导师级”的教学笔记（零基础直达精通）。具备“真理锚定”校验能力，自动识别幻觉与过时信息。",
-      "version": "4.4.0",
-      "author": {
-        "name": "YuJunZhiXue",
-        "email": ""
-      },
-      "category": "productivity"
-    },
-    {
       "name": "prompts.chat",
       "source": "./external/awesome-chatgpt-prompts/plugins/claude/prompts.chat",
       "description": "直接在您的AI编程助手中访问数千个AI提示和技能。搜索提示、发现技能、保存您自己的内容，并使用AI改进提示.",
@@ -136,6 +125,21 @@
       "keywords": ["prompts", "ai", "skills", "chatgpt", "claude", "llm"],
       "category": "ai",
       "tags": ["prompts", "ai-tools", "productivity", "skills"]
+    },
+    {
+      "name": "inspiration-generator",
+      "source": "./plugins/inspiration-generator",
+      "description": "灵感生成器：当你不知道该干什么、感到迷茫、或者需要新想法时，分析项目现状并提供有针对性的灵感建议",
+      "version": "1.0.0",
+      "author": {
+        "name": "Leeszzz",
+        "email": ""
+      },
+      "category": "productivity",
+      "keywords": ["inspiration", "ideas", "productivity", "project-analysis", "suggestions"],
+      "skills": [
+        "./skills/inspiration-generator"
+      ]
     }
   ]
 }

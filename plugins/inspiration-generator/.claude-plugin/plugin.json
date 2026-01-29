@@ -1,0 +1,11 @@
+{
+  "name": "inspiration-generator",
+  "version": "1.0.0",
+  "description": "灵感生成器：当你不知道该干什么、感到迷茫、或者需要新想法时，分析项目现状并提供有针对性的灵感建议",
+  "author": {
+    "name": "Leeszzz",
+    "email": ""
+  },
+  "keywords": ["inspiration", "ideas", "productivity", "project-analysis", "suggestions"],
+  "license": "MIT"
+}
